@@ -26,7 +26,7 @@ var util = require('util');
   we specify that in the exports of this module that 'hello' maps to the function named 'hello'
  */
 module.exports = {
-  hello: hello,
+  hello: hello Mexico,
 };
 
 /*
